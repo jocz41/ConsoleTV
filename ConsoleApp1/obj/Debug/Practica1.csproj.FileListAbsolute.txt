@@ -1,0 +1,10 @@
+C:\Users\Sara\Documents\DAM\Desarrollo de Interfaces\Practica 1\ConsoleApp1\ConsoleApp1\obj\Debug\Practica1.csprojResolveAssemblyReference.cache
+C:\Users\Sara\Documents\DAM\Desarrollo de Interfaces\Practica 1\ConsoleApp1\ConsoleApp1\obj\Debug\Practica1.csproj.CoreCompileInputs.cache
+C:\Users\Sara\Documents\DAM\Desarrollo de Interfaces\Practica 1\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\Sara\Documents\DAM\Desarrollo de Interfaces\Practica 1\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\Sara\Documents\DAM\Desarrollo de Interfaces\Practica 1\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\Sara\Documents\DAM\Desarrollo de Interfaces\Practica 1\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+C:\Users\sara_\Documents\SUBIR GITHUB\DAM\Desarrollo de Interfaces\Practica 1\ConsoleApp1\ConsoleApp1\obj\Debug\Practica1.csprojAssemblyReference.cache
+C:\Users\sara_\Documents\SUBIR GITHUB\DAM\Desarrollo de Interfaces\Practica 1\ConsoleApp1\ConsoleApp1\obj\Debug\Practica1.csproj.CoreCompileInputs.cache
+C:\Users\sara_\Documents\SUBIR GITHUB\DAM\Desarrollo de Interfaces\Practica 1\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\sara_\Documents\SUBIR GITHUB\DAM\Desarrollo de Interfaces\Practica 1\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
